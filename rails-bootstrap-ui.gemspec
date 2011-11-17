@@ -4,11 +4,11 @@ require "rails-bootstrap-ui/version"
 
 Gem::Specification.new do |s|
   s.name        = "rails-bootstrap-ui"
-  s.version     = Rails::Bootstrap::Ui::VERSION
+  s.version     = Rails::Bootstrap::UI::VERSION
   s.authors     = ["Darian Shimy"]
   s.email       = ["dshimy@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
+  s.summary     = %q{Rails 3.1 gem to get a core set of JS and CSS files}
   s.description = %q{TODO: Write a gem description}
 
   s.rubyforge_project = "rails-bootstrap-ui"

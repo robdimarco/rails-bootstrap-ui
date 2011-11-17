@@ -1,6 +1,6 @@
 module Rails
   module Bootstrap
-    module Ui
+    module UI
       VERSION = "0.0.1"
     end
   end
