@@ -5,6 +5,7 @@
 //= require bootstrap-tabs
 //= require bootstrap-twipsy
 //= require bootstrap-popover
+//= require jquery.hotkeys
 
 $(document).ready(function() {
   $('.dropdown').dropdown();
