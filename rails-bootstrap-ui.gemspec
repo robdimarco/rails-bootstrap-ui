@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email       = ["dshimy@gmail.com"]
   s.homepage    = ""
   s.summary     = %q{Rails 3.1 gem to get a core set of JS and CSS files}
-  s.description = %q{TODO: Write a gem description}
+  s.description = %q{Rails 3.1 gem that installs Twitter Bootstrap CSS and JS files, patches for will_paginate, and JQuery libraries for hotkeys and scrollable divs.}
 
   s.rubyforge_project = "rails-bootstrap-ui"
 
