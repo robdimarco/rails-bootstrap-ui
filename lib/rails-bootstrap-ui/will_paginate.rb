@@ -1,4 +1,4 @@
-require 'will_paginate/view_helpers/link_renderer'
+require 'will_paginate/action_view/view_helpers'
 
 module WillPaginate
   module ActionView
@@ -7,7 +7,7 @@ module WillPaginate
       super.try :html_safe
     end
 
-    class BootstrapLinkRenderer < WillPaginate::ViewHelpers::LinkRenderer
+    class BootstrapLinkRenderer < WillPaginate::ActionView::LinkRenderer
       protected
 
       def html_container(html)
