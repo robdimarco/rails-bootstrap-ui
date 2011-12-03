@@ -10,10 +10,14 @@ This project adds several UI elements to Rails 3.1.  Included are:
 
 # Installation
 
+Add the following to your Gemfile
+
+    gem 'rails-bootstrap-ui'
+
 Add the following to app/assets/javascripts/application.js
 
     //= require bootstrap
 
-Add the following to app/assets/javascripts/application.js
+Add the following to app/assets/stylesheets/application.css
 
     *= require bootstrap
