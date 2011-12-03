@@ -1,4 +1,4 @@
-require 'will_paginate/action_view/view_helpers'
+require 'will_paginate/view_helpers/action_view'
 
 module WillPaginate
   module ActionView
